@@ -1,4 +1,4 @@
-Bitcoin association Slovenia Token (BAST)
+# Bitcoin association Slovenia Token (BAST)
 
 BAST is a community based token for Bitcoin association Slovenia.
 
