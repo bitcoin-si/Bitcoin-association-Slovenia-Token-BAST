@@ -18,7 +18,7 @@ Crowdfunding token for yearly Bitcoin association Slovenia operations.
 
 # Markets
 
-Vote for BAST listing on Bololex.com 
+Vote for BAST listing on https://Bololex.com 
 
 
 # Can i buy BAST token?
