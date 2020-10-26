@@ -12,7 +12,13 @@ https://etherscan.io/token/0x81d10c3f24bfbf51ead7470c5e84baaa9dfdf461
 
 # What is the purpouse of the token?
 
-Primary purpouse of the token is loyalty reward for yearly association membership renewals.
+Primary purpouse of the token is loyalty reward for yearly Bitcoin association membership renewals.
+Secondary purpouse is payment for yearly association membership fee.
+Crowdfunding token for yearly Bitcoin association Slovenia operations.
+
+# Markets
+
+Vote for BAST listing on Bololex.com 
 
 
 # Can i buy BAST token?
