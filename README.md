@@ -10,7 +10,7 @@ Decimals: 4
 
 https://etherscan.io/token/0x81d10c3f24bfbf51ead7470c5e84baaa9dfdf461
 
-# What is the purpouse of the token?
+# Token use cases and utility?
 
 Primary purpouse of the token is loyalty reward for yearly Bitcoin association membership renewals.
 Secondary purpouse is payment for yearly association membership fee.
@@ -29,3 +29,9 @@ If a an open market is created where BAST is traded it is up the the community.
 # How was the total supply of BAST determined?
 
 At time of creation the total population of Slovenia was 2.06616 M people therefore having a an ambitioous idea of having a supply large enough so 100 BAST could be in theory distributed to all citizens thru time. 
+
+# Wallets
+
+# Services
+
+
