@@ -1,6 +1,6 @@
 # Bitcoin association Slovenia Token (BAST)
 
-BAST is a community based token for Bitcoin association Slovenia.
+BAST is a community token for Bitcoin association Slovenia.
 
 Token contract at address: 0x81d10c3f24bfbf51ead7470c5e84baaa9dfdf461. 
 
@@ -18,7 +18,13 @@ Crowdfunding token for yearly Bitcoin association Slovenia operations.
 
 # Markets
 
-Vote for BAST listing on https://Bololex.com 
+Vote for BAST listing on https://bololex.com/trading/sessions/signup/43KNLH9R52BB9GGD (you need to connect/link your Telegram account to vote)
+
+# Social and web
+
+* Telegram: https://t.me/BASTtoken
+* Twitter: https://twitter.com/BitcoinSlovenia
+* Facebook group: https://www.facebook.com/groups/bitcoin.association.slovenia.bast.token
 
 
 # Can i buy BAST token?
