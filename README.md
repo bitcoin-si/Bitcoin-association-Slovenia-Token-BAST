@@ -1,6 +1,6 @@
 # Bitcoin association Slovenia Token (BAST)
 
-BAST is an experimental community token for Bitcoin association Slovenia.
+$BAST is an experimental community token for Bitcoin association Slovenia created (Nov-05-2017 04:23:45 PM +UTC) at Ethereum transaction hash 0xf07a4a01bd013bb9ee6fcbc3fd912298dce0c9c67816c4644df0b651a2462a12
 
 Token contract at address: 0x81d10c3f24bfbf51ead7470c5e84baaa9dfdf461 (Do NOT send any ethereum or tokens to the token contract address)
 
