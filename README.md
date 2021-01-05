@@ -10,7 +10,7 @@ Decimals: 4
 
 https://etherscan.io/token/0x81d10c3f24bfbf51ead7470c5e84baaa9dfdf461
 
-# Token use cases and utility?
+# Token use cases and utility
 
 * Primary purpouse of the token is loyalty reward for yearly Bitcoin association membership renewals.
 * Secondary purpouse is payment for yearly association membership fee.
@@ -31,9 +31,9 @@ https://etherscan.io/token/0x81d10c3f24bfbf51ead7470c5e84baaa9dfdf461
 
 # Can i buy BAST token?
 
-* $BAST total supply is 100% centralized and managed by the management board of Bitcoin association Slovenia  and will be distributed to Bitcoin association Slovenia members upon signup or at later on in the future.
-* If a an open market is created where BAST is traded it is up the the open community.
-* BAST token has no inituall price,the open market and community ecosystem is the only authority that will add any value to the token itself
+* $BAST total supply is 100% centralized and managed by the management board of Bitcoin association Slovenia  and will be distributed to Bitcoin association Slovenia members upon signup or at later on in the future using the most suitable and cost efficient medium or service
+* If a an open market is established, where $BAST is traded it is up the the open community and will of digital currency platforms
+* BAST token has no initual price and the open market and digital currency community ecosystem is the only authority that will add any value to the token itself
 
 # How was the total supply of BAST determined?
 
@@ -50,11 +50,12 @@ At time of creation the total population of Slovenia was 2.06616 M people theref
 * Coinomi.com
 * MyEtherWallet.com
 * MYCrypto.com
-* Ledger
-* BCVault
-* Trezor
-* AtomicWallet
-* TrustWallet
+* Ledger.com
+* BCVault.eu
+* Trezor-io
+* AtomicWallet.io
+* TrustWallet.com
+* other erc20 supported wallets
 
 
 # Services
