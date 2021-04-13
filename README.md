@@ -22,8 +22,9 @@ https://etherscan.io/token/0x81d10c3f24bfbf51ead7470c5e84baaa9dfdf461
 
 # Markets
 
-* Vote for BAST listing on Bololex exchange https://bololex.bitcoin.si (you need to connect/link your Telegram account to vote)
+* Bololex exchange https://bololex.bitcoin.si
 * Vote for BAST listing on SatoExchange https://www.satoexchange.com/register/?ref=oyhhtg6a (5 free votes per month after you make at least one deposit and a trade)
+* Vote for BAST listing on Ataix exchange and be part of the 20M $BAST airdrop https://trade.ataix.com/sessions/signup/IXaAvUnK9
 
 # Social and web
 
