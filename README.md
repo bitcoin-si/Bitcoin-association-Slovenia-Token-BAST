@@ -22,9 +22,8 @@ https://etherscan.io/token/0x81d10c3f24bfbf51ead7470c5e84baaa9dfdf461
 
 # Markets
 
-* Bololex exchange https://bololex.bitcoin.si
-* Vote for BAST listing on SatoExchange https://www.satoexchange.com/register/?ref=oyhhtg6a (5 free votes per month after you make at least one deposit and a trade)
-* Vote for BAST listing on Ataix exchange and be part of the 20M $BAST airdrop https://trade.ataix.com/sessions/signup/IXaAvUnK9
+* Bololex exchange [https://bololex.bitcoin.si](https://bololex.com/trading/sessions/signup/3HDS9HA12NSG7B9W)
+
 
 # Social and web
 
@@ -41,11 +40,6 @@ https://etherscan.io/token/0x81d10c3f24bfbf51ead7470c5e84baaa9dfdf461
 # How was the total supply of BAST determined?
 
 At time of creation the total population of Slovenia was 2.06616 M people therefore having a an ambitioous idea of having a supply large enough so 100 BAST could be in theory distributed to all citizens thru time. 
-
-# BAST distribution and treasury wallet
-
-* Treasury wallet: 0xBcf64b49471e0B55EeFeaf7a50FDD0437755Fb72
-* CCtip.io tiping bot topup wallet: 0xaeadb880fcbedf59cbd8010293308c564f6c71ca
 
 
 # Popular erc20 compatible wallets (Any Ethereum/erc20 compatible wallet)
